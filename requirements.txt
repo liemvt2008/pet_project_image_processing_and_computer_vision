@@ -1,0 +1,7 @@
+# Python 3.10 - 3.12 (tested on 3.11)
+tensorflow==2.21.0
+keras==3.15.1
+gradio==6.30.0
+mtcnn==1.0.0
+opencv-python-headless==5.0.0.93
+numpy==2.4.6
